@@ -34,6 +34,8 @@ This is a list of guides and resources to help you get started with the gpt-oss 
   - [Running gpt-oss models on AMD Ryzen AI Processors and Radeon Graphics Cards](https://www.amd.com/en/blogs/2025/how-to-run-openai-gpt-oss-20b-120b-models-on-amd-ryzen-ai-radeon.html)
 - llama.cpp
   - [Running gpt-oss with llama.cpp](https://github.com/ggml-org/llama.cpp/discussions/15396)
+- metal (natively)
+  - How to run gpt-oss on mac(apple-silicon)? **you need to build the code** 
 
 ### Server
 
